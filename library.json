@@ -1,0 +1,52 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "In The Jungle Book who teaches Mowgli about The Bare Necesseties of life?",
+    "back": "Baloo"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Andy is the name of the boy who owns Buzz Lightyear in the movie Toy Story?",
+    "cloze": "Andy"
+  },
+  {
+    "type": "BasicCard",
+    "front": "The phrase Bibbidi-Bobbidi-Boo is from a song in what movie?",
+    "back": "Cinderella"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Georgette was a prissy poodle in what Disney feature?",
+    "back": "Oliver and Company"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "In The Little Mermaid,Scuttle call a pipe a snarfblatt?",
+    "cloze": "The Little Mermaid"
+  },
+  {
+    "type": "BasicCard",
+    "front": "In the movie Frozen, which song does Elsa sing as she builds the castle?",
+    "back": "Let It Go"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Beauty and the Beast was the first Disney movie to receive an Oscar nomination for Best Picture",
+    "cloze": "Beauty and the Beast"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What type of animal does Jasmine have for a pet in Aladdin?",
+    "back": "tiger"
+  },
+  {
+    "type": "BasicCard",
+    "front": "The song \"You Can Fly\" is from which Disney movie?",
+    "back": "Peter Pan"
+  },
+  {
+    "type": "BasicCard",
+    "front": "In the Incredibles, what does Dash put on his teacher's chair?",
+    "back": "tack"
+  }
+]

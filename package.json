@@ -1,0 +1,26 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "node.js flashcard app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnavo/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Phillip Navo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnavo/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/pnavo/Flashcard-Generator#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.0"
+  }
+}
